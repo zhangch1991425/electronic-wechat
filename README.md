@@ -29,13 +29,13 @@
 
 To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](https://www.npmjs.com/)) installed on your computer. From your command line:
 
-``` bash
+
 # Clone this repository
 git clone https://github.com/geeeeeeeeek/electronic-wechat.git
 # Go into the repository
 cd electronic-wechat
 # Install dependencies and run the app
-npm install && npm start
+
 ```
 
 To pack into an app, simply type one of these:
